@@ -1,11 +1,14 @@
 Hi there 👋
 
-👨🏻‍💻 Andrea Cavo
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=samirettali&show_icons=true&theme=radical" width="380">
+```
+😀 Andrea Cavo
 🇮🇹 Italian
 🖥 Software Developer @ Currently Unemployed 
 ✈️ Traveler
 🎮 Gamer
 ⛰️ Hiking
+```
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrea-cavo/">

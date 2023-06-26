@@ -1,6 +1,7 @@
 Hi there 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=samirettali&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=calvaz&show_icons=true&theme=radical" width="380">
+
 ```
 😀 Andrea Cavo
 🇮🇹 Italian

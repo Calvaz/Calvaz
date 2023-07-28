@@ -6,7 +6,7 @@ I love writing software, fiddling with new tech and leaving projects half comple
 ```
 🇮🇹 Italian
 🖥 Software Developer @ Currently Unemployed 
-✈️ Traveler
-🎮 Gamer
+✈️ Traveling
+🎮 Gaming
 ⛰️ Hiking
 ```
